@@ -1,0 +1,15 @@
+# BestDealSoft
+
+> Independent, practical reviews of software deals on AppSumo. Original reviews only; no copied vendor blurbs, no invented hands-on claims.
+
+BestDealSoft is an independent publication and is not affiliated with AppSumo LLC. AppSumo is a third-party marketplace; offers, prices, and terms can change at any time.
+
+## Pages
+
+- [Home](https://bestdealsoft.com/): what the site is, current status, and review principles.
+- [Reviews](https://bestdealsoft.com/reviews/): the review library. Currently empty by design until original reviews are finished.
+- [Editorial policy](https://bestdealsoft.com/editorial-policy/): how deals are evaluated, what every review includes, corrections, and FAQ.
+- [About](https://bestdealsoft.com/about/): who runs the site and how it is funded.
+- [Affiliate disclosure](https://bestdealsoft.com/affiliate-disclosure/): how affiliate links work on this site.
+- [Privacy notice](https://bestdealsoft.com/privacy/): what data is collected (very little).
+- [Contact](https://bestdealsoft.com/contact/): hello@bestdealsoft.com — corrections, review requests, questions.
